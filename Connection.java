@@ -9,7 +9,7 @@ import java.net.URL;
 
 /**
  *
- * @author Chris
+ * @author Chris, Cindy, Arlan, Ramond
  */
  public class app
  {
